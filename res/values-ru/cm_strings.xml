@@ -35,9 +35,7 @@
     <!-- Workspace is locked -->
     <string name="workspace_locked">Главный экран заблокирован. Для изменения разблокируйте его в настройках</string>
 
-    <!--             -->
     <!-- Preferences -->
-    <!--             -->
     <string name="preferences_title">Настройки</string>
     <!-- UI -->
     <string name="preferences_interface_title">Интерфейс</string>
@@ -114,6 +112,8 @@
 
     <!-- Dock -->
     <string name="preferences_interface_dock_title">Нижняя панель</string>
+    <string name="preferences_interface_dock_enabled_title">Включить</string>
+    <string name="preferences_interface_dock_enabled_summary">Отображать панель внизу экрана</string>
     <string name="preferences_interface_dock_pages_title">Страницы</string>
     <string name="preferences_interface_dock_pages_summary">Количество страниц в нижней панели</string>
     <string name="preferences_interface_dock_default_page_title">Страница по умолчанию</string>
