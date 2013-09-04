@@ -14,6 +14,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="application_copyright">Copyright \u00A9 2013 The CyanogenMod Project</string>
+    <string name="menu">Menu</string>
     <string name="hidden_apps_title">Ukryte aplikacje</string>
     <string name="preferences_title">Ustawienia</string>
     <string name="preferences_interface_title">Interfejs</string>
@@ -138,4 +140,6 @@
     <string name="cancel_target_label">Anuluj</string>
     <string name="all_apps_sort_cling_title">Sortuj aplikacje</string>
     <string name="all_apps_sort_cling_add_item">Przytrzymaj kartę aplikacji aby wybrać tryb sortowania</string>
+    <string name="live_folder_cling_title">Foldery-Live</string>
+    <string name="live_folder_cling_create_folder">Foldery-Live pozwalają deweloperom tworzyć foldery z dynamiczną zawartością. Zawartość folderu może być usunięta, przez długie naciśnięcie na pojedyńczym wpisie. W przeciwieństwie do normalnych folderów, zawartość może być dodana tylko przez aplikację która utowrzyła folder</string>
 </resources>
