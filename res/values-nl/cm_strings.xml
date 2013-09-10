@@ -111,6 +111,16 @@
     <string name="menu_apps_filter_downloaded">Gedownload</string>
     <string name="menu_hidden_apps_delete">Herstellen</string>
     <string name="hidden_apps_title">Verborgen apps</string>
+    <string name="preferences_interface_general_lock_workspace_title">Startscherm vergrendelen</string>
+    <string name="preferences_interface_general_lock_workspace_summary">Positie van snelkoppelingen en mappen vergrendelen op startscherm, in dock en in app- en widgetoverzicht</string>
+    <string name="preferences_interface_general_fullscreen_title">Volledig scherm</string>
+    <string name="preferences_interface_general_fullscreen_summary">De statusbalk verbergen om het startscherm uit te breiden</string>
+    <string name="folder_empty_contents_title">Geen items gevonden</string>
+    <string name="preferences_interface_general_iconpack_title">Pictogrammenpakket</string>
+    <string name="preferences_interface_general_iconpack_summary">Pictogrammenpakketten vervangen de standaardpictogrammen van apps</string>
+    <string name="dialog_pick_iconpack_title">Pictogrammenpakket kiezen</string>
+    <string name="default_iconpack_title">Standaard</string>
+    <string name="no_iconpacks_summary">Geen pictogrammenpakket geïnstalleerd</string>
     <string name="effects_standard">Standaard</string>
     <string name="effects_tablet">Tablet</string>
     <string name="effects_zoom_in">Inzoomen</string>
