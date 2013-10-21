@@ -112,8 +112,6 @@
     <string name="preferences_interface_dock_divider_title">Rodyti skydelio skirtuką</string>
     <string name="preferences_interface_dock_divider_summary">Rodyti skirtuką tarp pagrindinio ekrano ir skydelio</string>
     <string name="preferences_interface_icons_title">Piktogramos</string>
-    <string name="preferences_interface_general_title">Pagrindiniai</string>
-    <string name="preferences_interface_general_orientation_title">Automatiškai sukti</string>
     <string name="preferences_interface_general_title">Bendrai</string>
     <string name="preferences_interface_general_orientation_title">Automatiškai pasukti ekraną</string>
     <string name="preferences_interface_general_lock_workspace_title">Užrakinti ekraną</string>
