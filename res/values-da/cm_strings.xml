@@ -116,8 +116,6 @@
     <string name="preferences_interface_general_orientation_title">Rotér skærm automatisk</string>
     <string name="preferences_interface_general_lock_workspace_title">Lås startskærm</string>
     <string name="preferences_interface_general_lock_workspace_summary">Lås genvejs- og mappepositioner på startskærmen, startlinjen og apps- og widgetsskuffen</string>
-    <string name="preferences_interface_general_fullscreen_title">Fuldskærmstilstand</string>
-    <string name="preferences_interface_general_fullscreen_summary">Skjul statuslinjen for at udvide startskærmen</string>
     <string name="folder_empty_contents_title">Ingen objekter fundet</string>
     <string name="preferences_interface_general_iconpack_title">Ikon-pakke</string>
     <string name="preferences_interface_general_iconpack_summary">Ikon-pakker erstatter standardikoner for applikationer</string>

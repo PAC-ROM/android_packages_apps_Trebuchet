@@ -116,8 +116,6 @@
     <string name="preferences_interface_general_orientation_title">ئېكراننى ئۆزلۈكىدىن ئايلاندۇر</string>
     <string name="preferences_interface_general_lock_workspace_title">باش ئېكراننى قۇلۇپلا</string>
     <string name="preferences_interface_general_lock_workspace_summary">ئاساسىي ئېكران ۋە لەڭگەردىكى بارلىق سىنبەلگە ۋە قىسقۇچلارنىڭ ئورنىنى قۇلۇپلايدۇ</string>
-    <string name="preferences_interface_general_fullscreen_title">پۈتۈن ئېكران ھالىتى</string>
-    <string name="preferences_interface_general_fullscreen_summary">ھالەت بالداقنى يوشۇرۇپ باش ئېكراننى كەڭەيتىدۇ</string>
     <string name="folder_empty_contents_title">ھېچقانداق نەتىجە تېپىلمىدى</string>
     <string name="preferences_interface_general_iconpack_title">سىنبەلگە بوغچىسى</string>
     <string name="preferences_interface_general_iconpack_summary">سىنبەلگە بوغچىسى كۆڭۈلدىكى ئەپ سىنبەلگىسىنى ئالماشتۇرىدۇ</string>

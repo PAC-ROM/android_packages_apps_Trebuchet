@@ -117,8 +117,6 @@
     <string name="preferences_interface_general_orientation_title">Scherm automatisch draaien</string>
     <string name="preferences_interface_general_lock_workspace_title">Startscherm vergrendelen</string>
     <string name="preferences_interface_general_lock_workspace_summary">Positie van snelkoppelingen en mappen vergrendelen op startscherm, in dock en in app- en widgetoverzicht</string>
-    <string name="preferences_interface_general_fullscreen_title">Volledig scherm</string>
-    <string name="preferences_interface_general_fullscreen_summary">De statusbalk verbergen om het startscherm uit te breiden</string>
     <string name="folder_empty_contents_title">Geen items gevonden</string>
     <string name="preferences_interface_general_iconpack_title">Pictogrammenpakket</string>
     <string name="preferences_interface_general_iconpack_summary">Pictogrammenpakketten vervangen de standaardpictogrammen van apps</string>

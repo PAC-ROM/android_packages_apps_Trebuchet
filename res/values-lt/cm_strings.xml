@@ -116,8 +116,6 @@
     <string name="preferences_interface_general_orientation_title">Automatiškai pasukti ekraną</string>
     <string name="preferences_interface_general_lock_workspace_title">Užrakinti ekraną</string>
     <string name="preferences_interface_general_lock_workspace_summary">Užrakinti šaukinių ir aplankų pozicijas pagrindiniame ekrane, skydelyje ir programų bei valdiklių stalčiuje</string>
-    <string name="preferences_interface_general_fullscreen_title">Viso ekrano veiksena</string>
-    <string name="preferences_interface_general_fullscreen_summary">Slėpti būsenos juostą, kad išplėsti pagrindinį ekraną</string>
     <string name="folder_empty_contents_title">Elementų nerasta</string>
     <string name="preferences_interface_general_iconpack_title">Piktogramų paketas</string>
     <string name="preferences_interface_general_iconpack_summary">Piktogramų paketai pakeičia numatytas programos piktogramas</string>

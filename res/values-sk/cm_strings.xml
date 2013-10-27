@@ -116,8 +116,6 @@
     <string name="preferences_interface_general_orientation_title">Automaticky otáčať obrazovku</string>
     <string name="preferences_interface_general_lock_workspace_title">Uzamknúť domovskú obrazovku</string>
     <string name="preferences_interface_general_lock_workspace_summary">Uzamknúť pozície odkazov a priečinkov domovskej obrazovky, doku a ponuky aplikácií a miniaplikácií</string>
-    <string name="preferences_interface_general_fullscreen_title">Režim na celú obrazovku</string>
-    <string name="preferences_interface_general_fullscreen_summary">Skryť stavovú lištu kvôli zväčšeniu domovskej obrazovky</string>
     <string name="folder_empty_contents_title">Nenájdené žiadne položky</string>
     <string name="effects_standard">Štandardný</string>
     <string name="effects_tablet">Tablet</string>

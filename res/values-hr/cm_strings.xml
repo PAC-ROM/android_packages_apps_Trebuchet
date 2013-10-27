@@ -116,8 +116,6 @@
     <string name="preferences_interface_general_orientation_title">Automatski rotiraj zaslon</string>
     <string name="preferences_interface_general_lock_workspace_title">Zaključaj početni zaslon</string>
     <string name="preferences_interface_general_lock_workspace_summary">Zaključaj položaje prečica i mapa u početnom zaslonu, docku i draweru aplikacija i widgeta</string>
-    <string name="preferences_interface_general_fullscreen_title">Fullscreen način</string>
-    <string name="preferences_interface_general_fullscreen_summary">Sakrij statusnu traku da raširiš početni zaslon</string>
     <string name="folder_empty_contents_title">Predmeti nisu pronađeni</string>
     <string name="preferences_interface_general_iconpack_title">Pack ikona</string>
     <string name="preferences_interface_general_iconpack_summary">Packovi ikona zamjene zadane ikone aplikacija</string>

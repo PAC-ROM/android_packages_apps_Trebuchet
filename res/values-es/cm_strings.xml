@@ -117,8 +117,6 @@
     <string name="preferences_interface_general_orientation_title">Rotación automática pantalla</string>
     <string name="preferences_interface_general_lock_workspace_title">Bloquear pantalla</string>
     <string name="preferences_interface_general_lock_workspace_summary">Bloquear la posición de carpetas y accesos directos de la pantalla de inicio, incluyendo los widgets y la barra de aplicaciones</string>
-    <string name="preferences_interface_general_fullscreen_title">Modo pantalla completa</string>
-    <string name="preferences_interface_general_fullscreen_summary">Ocultar la barra de estado para extender la pantalla de inicio</string>
     <string name="folder_empty_contents_title">No hay elementos</string>
     <string name="preferences_interface_general_iconpack_title">Paquete de iconos</string>
     <string name="preferences_interface_general_iconpack_summary">Los paquetes de iconos reemplazan los iconos predeterminados de las aplicaciones</string>

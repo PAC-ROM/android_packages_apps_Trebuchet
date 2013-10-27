@@ -111,8 +111,6 @@
     <string name="preferences_interface_general_orientation_title">画面の自動回転</string>
     <string name="preferences_interface_general_lock_workspace_title">ホーム画面のロック</string>
     <string name="preferences_interface_general_lock_workspace_summary">ホーム画面のドックやアプリのショートカットとフォルダ、ウィジェットの位置をロックする</string>
-    <string name="preferences_interface_general_fullscreen_title">フルスクリーンモード</string>
-    <string name="preferences_interface_general_fullscreen_summary">ステータスバーを隠してホーム画面を拡張する</string>
     <string name="folder_empty_contents_title">アイテムがありません</string>
     <string name="preferences_interface_general_iconpack_title">アイコンパック</string>
     <string name="preferences_interface_general_iconpack_summary">アイコンパックはデフォルトのアイコンを置き換えます</string>

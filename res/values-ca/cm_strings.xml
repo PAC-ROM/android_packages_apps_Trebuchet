@@ -127,8 +127,6 @@
     <string name="preferences_interface_general_orientation_title">Auto-rota la pantalla</string>
     <string name="preferences_interface_general_lock_workspace_title">Bloqueja pantalla d\'inici</string>
     <string name="preferences_interface_general_lock_workspace_summary">Bloqueja les posicions de les dreceres i les carpetes a les pantalles, dock i al drawer de les apps i widgets</string>
-    <string name="preferences_interface_general_fullscreen_title">Mode pantalla sencera</string>
-    <string name="preferences_interface_general_fullscreen_summary">Amaga la barra d\'estat per extendre la pantalla d\'inici</string>
     <string name="folder_empty_contents_title">No s\'han trobat elements</string>
     <string name="preferences_interface_general_iconpack_title">Paquet d\'icones</string>
     <string name="preferences_interface_general_iconpack_summary">Els paquets d\'icones substitueixen els icones predeterminats de les aplicacions</string>

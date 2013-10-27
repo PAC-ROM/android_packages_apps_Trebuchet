@@ -116,8 +116,6 @@
     <string name="preferences_interface_general_orientation_title">Automatische Ausrichtung</string>
     <string name="preferences_interface_general_lock_workspace_title">Startbildschirm sperren</string>
     <string name="preferences_interface_general_lock_workspace_summary">Platzierung von Verknüpfungen und Ordnern in Startbildschirm, Dock und App-Liste sperren</string>
-    <string name="preferences_interface_general_fullscreen_title">Vollbildmodus</string>
-    <string name="preferences_interface_general_fullscreen_summary">Statusleiste für Vollbildansicht ausblenden</string>
     <string name="folder_empty_contents_title">Keine Inhalte gefunden</string>
     <string name="preferences_interface_general_iconpack_title">Symbolpaket</string>
     <string name="preferences_interface_general_iconpack_summary">Symbolpakete ersetzen die Standard-Symbole der Apps</string>
